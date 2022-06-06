@@ -1,0 +1,17 @@
+||af.opera.com^
+||dns-family.adguard.com^
+||concierge.analytics.console.aws.a2z.com^
+||foreverliving.com^
+||whispersystems.org^
+||signal.org^
+||foldingathome.org^
+||nintendo.net^
+||www.milosc.co^
+||pages.awscloud.com^
+||fonts.gstatic.com^
+||myworld.com^
+||thepiratebay.org^
+||www.nuskin.com^$important
+||inwestujwrozwoj.pl^
+||workshops.mattsuessphoto.com^
+||booksy.com^
