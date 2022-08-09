@@ -17,3 +17,4 @@
 ||booksy.com^
 ||t.co^
 ||awstrack.me^
+||tvn.pl^
