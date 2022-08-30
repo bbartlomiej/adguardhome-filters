@@ -18,3 +18,4 @@
 ||t.co^
 ||awstrack.me^
 ||tvn.pl^
+||revolut.com^
