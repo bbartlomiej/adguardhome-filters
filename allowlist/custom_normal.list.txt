@@ -19,3 +19,4 @@
 ||awstrack.me^
 ||tvn.pl^
 ||revolut.com^
+||click.pstmrk.it^
