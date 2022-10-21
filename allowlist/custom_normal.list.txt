@@ -20,3 +20,4 @@
 ||tvn.pl^
 ||revolut.com^
 ||click.pstmrk.it^
+||api.synerise.com^
