@@ -21,3 +21,5 @@
 ||revolut.com^
 ||click.pstmrk.it^
 ||api.synerise.com^
+||lotto.pl^
+||megalotto.pl^
