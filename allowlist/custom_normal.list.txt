@@ -24,3 +24,5 @@
 ||lotto.pl^
 ||megalotto.pl^
 ||cludo.com^
+||tvppl.hit.gemius.pl^
+||tvpgapl.hit.gemius.pl^
