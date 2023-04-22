@@ -27,3 +27,4 @@
 ||tvppl.hit.gemius.pl^
 ||tvpgapl.hit.gemius.pl^
 ||sentry.io^
+||click.discord.com^
