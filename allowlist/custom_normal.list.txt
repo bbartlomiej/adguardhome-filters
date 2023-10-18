@@ -29,3 +29,4 @@
 ||sentry.io^
 ||sentry-cdn.com^
 ||click.discord.com^
+||lp-wip.pl^
