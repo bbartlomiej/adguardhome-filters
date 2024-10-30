@@ -8,6 +8,7 @@
 ||nintendo.net^
 ||www.milosc.co^
 ||pages.awscloud.com^
+||api.aws^
 ||fonts.gstatic.com^
 ||myworld.com^
 ||thepiratebay.org^
@@ -16,7 +17,6 @@
 ||workshops.mattsuessphoto.com^
 ||booksy.com^
 ||t.co^
-||awstrack.me^
 ||tvn.pl^
 ||revolut.com^
 ||click.pstmrk.it^
