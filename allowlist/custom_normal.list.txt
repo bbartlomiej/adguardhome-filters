@@ -30,3 +30,4 @@
 ||sentry-cdn.com^
 ||click.discord.com^
 ||lp-wip.pl^
+||suunto.com^
