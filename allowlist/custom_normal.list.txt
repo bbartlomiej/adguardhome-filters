@@ -31,3 +31,8 @@
 ||click.discord.com^
 ||lp-wip.pl^
 ||suunto.com^
+
+||secure.netflix.com^
+||appboot.netflix.com^
+||uiboot.netflix.com^
+||fast.com^
