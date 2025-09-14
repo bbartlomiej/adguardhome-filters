@@ -36,3 +36,5 @@
 ||appboot.netflix.com^
 ||uiboot.netflix.com^
 ||fast.com^
+@@||*^$client=192.168.3.107
+@@||*^$client=192.168.3.104
