@@ -38,3 +38,6 @@
 ||fast.com^
 
 ||crossplane.io^
+
+@@||*^$client=192.168.3.60
+@@||*^$client=192.168.3.61
